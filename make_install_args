@@ -1,1 +1,1 @@
-INSTALL_PLUGINS_DIR=%{buildroot}/usr/lib64/ladspa  INSTALL_INCLUDE_DIR=%{buildroot}/usr/include INSTALL_BINARY_DIR=%{buildroot}/usr/bin
+INSTALL_PLUGINS_DIR=%{buildroot}/usr/lib64/ladspa INSTALL_INCLUDE_DIR=%{buildroot}/usr/include INSTALL_BINARY_DIR=%{buildroot}/usr/bin
